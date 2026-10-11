@@ -11,7 +11,7 @@ mvn exec:java
 
 La démo contient 6 salles et 5 réservations. Le filtre sur le nom « e », une capacité minimale de 20 et la disponibilité retourne Boreal, Cedre et Falaise, réparties sur 2 pages. Les 9 tests passent.
 
-Les captures montrent le rapport des résultats. Les sorties d'exécution sont dans `evidence/`.
+Les captures de la démo et des tests viennent d’exécutions réelles dans le terminal. Les sorties d'exécution sont dans `evidence/`.
 
 ![Résultats](screenshots/results.png)
 
